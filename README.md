@@ -11,8 +11,16 @@ david13penalver/david13penalver is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 
-<h1> Hi, I'm David Peñalver! <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHcwemswZjNnenM2djI5bDgxYnFtYzV0dDlidWRieXc0c3ppemJ4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WWGrmrMykMnja/giphy.webp" height="30"></h1>
+# Hi, I'm David Peñalver! <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHcwemswZjNnenM2djI5bDgxYnFtYzV0dDlidWRieXc0c3ppemJ4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WWGrmrMykMnja/giphy.webp" height="30">
 
 [![Instagram](https://img.shields.io/twitter/follow/BeSport24?logo=instagram&link=https%3A%2F%2Fwww.instagram.com%2Fbesport24%2F)](https://www.instagram.com/besport24/)
 [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/BeSport24?logo=youtube&link=https%3A%2F%2Fwww.youtube.com%2F%40besport24)](https://www.youtube.com/@besport24)
 [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/BeSport24?logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdavid-pe%C3%B1alver-navarro-050737118%2F)](https://www.linkedin.com/in/david-peñalver-navarro-050737118/)
+
+### A little more about me... <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzhxMGdrZDEyemduZjhyemNxM21nYjk5b2phZmxzeXJxYnphc3A3ayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/slVWEctHZKvWU/200.webp" width="70">
+```javascript
+const david = {
+  code: [Java, HTML, CSS, SQL, Bash],
+  tools: [Spring, SASS, AWS, Docker],
+}
+

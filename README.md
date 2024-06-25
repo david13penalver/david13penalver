@@ -29,6 +29,9 @@ const persona = {
 }
 ```
 
-***I love connecting with new people***, *so if you want to say ***hi***, I'll be happy to meet you! <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXp0eDNqZzMxdHNtZmMyb2xrcXZoOWRnMW5nMDZwOGwyaHh0OXVrbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/N1cfVLkN7pqQoinvmk/200.webp" height="50">*
-
 [![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=david13penalver)](https://github.com/david13penalver/github-readme-stats)
+
+  <a href="https://github.com/david13penalver/github-readme-stats"><img alt="David's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=david13penalver&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1077dd&title_color=FFFFFF&icon_color=FFFFFF&hide=Jupyter%20Notebook,Roff" height="213px"/></a>
+  <br/>
+
+***I love connecting with new people***, *so if you want to say ***hi***, I'll be happy to meet you! <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXp0eDNqZzMxdHNtZmMyb2xrcXZoOWRnMW5nMDZwOGwyaHh0OXVrbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/N1cfVLkN7pqQoinvmk/200.webp" height="50">*

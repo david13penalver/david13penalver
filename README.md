@@ -31,7 +31,7 @@ const persona = {
 }
 ```
 
-# 💻 Tech Stack:
+## 💻 Tech Stack <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnpiNzF1b2U3bHBjNThwMzFrdno1eDcwbWNmdDhna2FkMWU3NWJwciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lgZrktuanV8uQ/giphy.webp" height="50">
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
@@ -54,16 +54,17 @@ const persona = {
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=david13penalver&theme=blue_navy&no-frame=false&no-bg=true&margin-w=4)
+## 🏆 GitHub Trophies <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExenJpbHRzczFhemxtY2VlYjRvbHdwdDNvZTRyejV6aXo4d2UxMmFpeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/133cAiXr4T1te/giphy.webp" height="50">
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![](https://github-profile-trophy.vercel.app/?username=david13penalver&theme=blue_navy&no-frame=false&no-bg=true&margin-w=4)
 
 [![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=david13penalver)](https://github.com/david13penalver/github-readme-stats)
 
   <a href="https://github.com/david13penalver/github-readme-stats"><img alt="David's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=david13penalver&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1077dd&title_color=FFFFFF&icon_color=FFFFFF&hide=Jupyter%20Notebook,Roff" height="213px"/></a>
   <br/>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ***I love connecting with new people***, *so if you want to say ***hi***, I'll be happy to meet you! <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXp0eDNqZzMxdHNtZmMyb2xrcXZoOWRnMW5nMDZwOGwyaHh0OXVrbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/N1cfVLkN7pqQoinvmk/200.webp" height="50">*
 

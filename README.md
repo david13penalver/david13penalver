@@ -13,13 +13,15 @@ You can click the Preview link to take a look at your changes.
 
 
 
-# 👀 Hi, I'm David Peñalver! <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHcwemswZjNnenM2djI5bDgxYnFtYzV0dDlidWRieXc0c3ppemJ4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WWGrmrMykMnja/giphy.webp" height="100">
+# 👀 Hi, I'm David Peñalver! 
+<!---<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHcwemswZjNnenM2djI5bDgxYnFtYzV0dDlidWRieXc0c3ppemJ4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WWGrmrMykMnja/giphy.webp" height="100">--->
 
 [![Instagram](https://img.shields.io/twitter/follow/BeSport24?logo=instagram&link=https%3A%2F%2Fwww.instagram.com%2Fbesport24%2F)](https://www.instagram.com/besport24/)
 [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/BeSport24?logo=youtube&link=https%3A%2F%2Fwww.youtube.com%2F%40besport24)](https://www.youtube.com/@besport24)
 [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/BeSport24?logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdavid-pe%C3%B1alver-navarro-050737118%2F)](https://www.linkedin.com/in/david-peñalver-navarro-050737118/)
 
-### 💞️ A little more about me... <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzhxMGdrZDEyemduZjhyemNxM21nYjk5b2phZmxzeXJxYnphc3A3ayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/slVWEctHZKvWU/200.webp" height="50">
+### 💞️ A little more about me... 
+<!---<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzhxMGdrZDEyemduZjhyemNxM21nYjk5b2phZmxzeXJxYnphc3A3ayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/slVWEctHZKvWU/200.webp" height="50">--->
 
 ```javascript
 const persona = {
@@ -31,7 +33,8 @@ const persona = {
 }
 ```
 
-## 💻 Tech Stack <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnpiNzF1b2U3bHBjNThwMzFrdno1eDcwbWNmdDhna2FkMWU3NWJwciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lgZrktuanV8uQ/giphy.webp" height="50">
+## 💻 Tech Stack 
+<!---<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnpiNzF1b2U3bHBjNThwMzFrdno1eDcwbWNmdDhna2FkMWU3NWJwciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lgZrktuanV8uQ/giphy.webp" height="50">--->
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
@@ -54,7 +57,8 @@ const persona = {
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
-## 🏆 GitHub Trophies <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExenJpbHRzczFhemxtY2VlYjRvbHdwdDNvZTRyejV6aXo4d2UxMmFpeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/133cAiXr4T1te/giphy.webp" height="50">
+## 🏆 GitHub Trophies 
+<!---<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExenJpbHRzczFhemxtY2VlYjRvbHdwdDNvZTRyejV6aXo4d2UxMmFpeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/133cAiXr4T1te/giphy.webp" height="50">--->
 
 ![](https://github-profile-trophy.vercel.app/?username=david13penalver&theme=blue_navy&no-frame=false&no-bg=true&margin-w=4)
 
@@ -66,7 +70,8 @@ const persona = {
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-***I love connecting with new people***, *so if you want to say ***hi***, I'll be happy to meet you! <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXp0eDNqZzMxdHNtZmMyb2xrcXZoOWRnMW5nMDZwOGwyaHh0OXVrbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/N1cfVLkN7pqQoinvmk/200.webp" height="50">*
+***I love connecting with new people***, *so if you want to say ***hi***, I'll be happy to meet you! 
+<!---<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXp0eDNqZzMxdHNtZmMyb2xrcXZoOWRnMW5nMDZwOGwyaHh0OXVrbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/N1cfVLkN7pqQoinvmk/200.webp" height="50">--->***
 
 
 <!---

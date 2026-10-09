@@ -28,8 +28,8 @@ const persona = {
   self.name = "David Peñalver Navarro"
   self.role = "Software Engineer"
   self.language_spoken = ["es_ES", "en_US"]
-  code: [Java, HTML, CSS, SQL, PL/SQL, Bash, Git],
-  tools: [GitFlow, Spring, MySQL, SASS, AWS, Docker],
+  code: [Java, Swift, Python, HTML, CSS, SQL, PL/SQL, Bash, Git],
+  tools: [GitFlow, Spring, SwiftUI, FastAPI, MySQL, SASS, AWS, Docker],
 }
 ```
 
